@@ -1,4 +1,4 @@
-package Parallelismus;
+package HW7.Parallelismus;
 
 import org.testng.annotations.Test;
 

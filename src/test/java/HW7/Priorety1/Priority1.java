@@ -1,4 +1,4 @@
-package Priorety1;
+package HW7.Priorety1;
 
 import org.testng.annotations.Test;
 
